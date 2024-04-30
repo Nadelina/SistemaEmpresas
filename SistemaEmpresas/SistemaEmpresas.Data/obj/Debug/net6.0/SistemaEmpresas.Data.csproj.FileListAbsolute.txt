@@ -1,0 +1,13 @@
+C:\Proyectos\SistemaEmpresas\SistemaEmpresas\SistemaEmpresas.Data\bin\Debug\net6.0\SistemaEmpresas.Data.deps.json
+C:\Proyectos\SistemaEmpresas\SistemaEmpresas\SistemaEmpresas.Data\bin\Debug\net6.0\SistemaEmpresas.Data.dll
+C:\Proyectos\SistemaEmpresas\SistemaEmpresas\SistemaEmpresas.Data\bin\Debug\net6.0\SistemaEmpresas.Data.pdb
+C:\Proyectos\SistemaEmpresas\SistemaEmpresas\SistemaEmpresas.Data\obj\Debug\net6.0\SistemaEmpresas.Data.csproj.AssemblyReference.cache
+C:\Proyectos\SistemaEmpresas\SistemaEmpresas\SistemaEmpresas.Data\obj\Debug\net6.0\SistemaEmpresas.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Proyectos\SistemaEmpresas\SistemaEmpresas\SistemaEmpresas.Data\obj\Debug\net6.0\SistemaEmpresas.Data.AssemblyInfoInputs.cache
+C:\Proyectos\SistemaEmpresas\SistemaEmpresas\SistemaEmpresas.Data\obj\Debug\net6.0\SistemaEmpresas.Data.AssemblyInfo.cs
+C:\Proyectos\SistemaEmpresas\SistemaEmpresas\SistemaEmpresas.Data\obj\Debug\net6.0\SistemaEmpresas.Data.csproj.CoreCompileInputs.cache
+C:\Proyectos\SistemaEmpresas\SistemaEmpresas\SistemaEmpresas.Data\obj\Debug\net6.0\SistemaEmpresas.Data.sourcelink.json
+C:\Proyectos\SistemaEmpresas\SistemaEmpresas\SistemaEmpresas.Data\obj\Debug\net6.0\SistemaEmpresas.Data.dll
+C:\Proyectos\SistemaEmpresas\SistemaEmpresas\SistemaEmpresas.Data\obj\Debug\net6.0\refint\SistemaEmpresas.Data.dll
+C:\Proyectos\SistemaEmpresas\SistemaEmpresas\SistemaEmpresas.Data\obj\Debug\net6.0\SistemaEmpresas.Data.pdb
+C:\Proyectos\SistemaEmpresas\SistemaEmpresas\SistemaEmpresas.Data\obj\Debug\net6.0\ref\SistemaEmpresas.Data.dll

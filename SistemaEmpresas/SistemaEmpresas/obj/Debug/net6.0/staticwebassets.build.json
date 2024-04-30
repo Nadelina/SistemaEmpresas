@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "CkxlJAaLwS5FqwVDyfs2qzwdn2007xFBfvQ2Xzd4YqY=",
+  "Source": "SistemaEmpresas.Api",
+  "BasePath": "_content/SistemaEmpresas.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
